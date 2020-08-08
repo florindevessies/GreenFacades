@@ -1,0 +1,52 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>EDX ENVI-met Simulation Data Definition</filetype>
+<version>101</version>
+<revisiondate>13-5-2020 13:18:30</revisiondate>
+<remark>This file links to the EDT file of the same name</remark>
+<checksum>7</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <datadescription>
+     <data_type> 2 </data_type>
+     <data_content> 5 </data_content>
+     <data_zorientation> 0 </data_zorientation>
+     <data_health_status> 0 </data_health_status>
+     <data_spatial_dim> 3 </data_spatial_dim>
+     <nr_xdata> 61 </nr_xdata>
+     <nr_ydata> 29 </nr_ydata>
+     <nr_zdata> 25 </nr_zdata>
+     <spacing_x> 2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000 </spacing_x>
+     <spacing_y> 2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000 </spacing_y>
+     <spacing_z> 0.40000,0.40000,0.40000,0.40000,0.40000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000 </spacing_z>
+  </datadescription>
+  <variables>
+     <Data_per_variable> 1 </Data_per_variable>
+     <nr_variables> 7 </nr_variables>
+     <name_variables> Objects (),PET (°C),T skin static (°C),Wind speed (m/s),Air temperature (°C),Mean Radiant Temperature (°C),Specific humidity (g/kg) </name_variables>
+  </variables>
+  <modeldescription>
+     <title> West_2_2_2_SA_M_green 01.00.01 20.07.2018 </title>
+     <simulation_basename> West_2_2_2_SA_M_green_BIO_ </simulation_basename>
+     <simulation_date> 20.07.2018 </simulation_date>
+     <simulation_time> 01.00.01 </simulation_time>
+     <projectname> Simulations </projectname>
+     <locationname> Saffierstraat, 1074 Amsterdam, Netherlands </locationname>
+     <model_rotation> 76.00000 </model_rotation>
+     <location_georef_lat> 52.35000 </location_georef_lat>
+     <location_georef_lon> 4.90000 </location_georef_lon>
+     <locationname> Saffierstraat, 1074 Amsterdam, Netherlands </locationname>
+     <location_georef_xy_utmzone> 0 </location_georef_xy_utmzone>
+     <location_georef_x> 629704.12500 </location_georef_x>
+     <location_georef_y> 5801779.00000 </location_georef_y>
+  </modeldescription>
+  <envi-met_reference>
+     <envi-met_version> ENVI-met BIOMET V1.5 </envi-met_version>
+     <envi-met_GUID> LAPTOP-FA6BDJLM_12-5-2020_09.52.40 </envi-met_GUID>
+     <licenseholder> Marjolein Pijpers-van Esch </licenseholder>
+  </envi-met_reference>
+  <additional_info>
+     <sunposition> -999.00000 </sunposition>
+     <windinflow> 250.96051 </windinflow>
+  </additional_info>
+</ENVI-MET_Datafile>
