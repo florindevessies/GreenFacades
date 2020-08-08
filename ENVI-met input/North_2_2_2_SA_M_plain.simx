@@ -1,0 +1,100 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>SIMX</filetype>
+<version>2</version>
+<revisiondate>01.05.2020 9:32:29 AM</revisiondate>
+<remark></remark>
+<checksum>0</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <mainData>
+     <simName> North_2_2_2_SA_M_plain </simName>
+     <INXFile> 2_2_2_Studyarea_M_trees_windows_north.INX </INXFile>
+     <filebaseName> North_2_2_2_SA_M_plain </filebaseName>
+     <outDir>  </outDir>
+     <startDate> 15.07.2018 </startDate>
+     <startTime> 05:00:00 </startTime>
+     <simDuration> 120 </simDuration>
+     <windSpeed> 2.50000 </windSpeed>
+     <windDir> 90.00000 </windDir>
+     <z0> 0.01000 </z0>
+     <T_H> 294.14999 </T_H>
+     <Q_H> 7.00000 </Q_H>
+     <Q_2m> 50.00000 </Q_2m>
+  </mainData>
+  <FullForcing>
+     <fileName> Forcing_5days_east_test.fox </fileName>
+     <forceT> 1 </forceT>
+     <forceQ> 1 </forceQ>
+     <forceWind> 1 </forceWind>
+     <forcePrecip> 0 </forcePrecip>
+     <forceRadClouds> 1 </forceRadClouds>
+     <interpolationMethod> linear </interpolationMethod>
+     <nudging> 1 </nudging>
+     <nudgingFactor> 1.00000 </nudgingFactor>
+     <minFlowsteps> 50 </minFlowsteps>
+     <limitWind2500> 0 </limitWind2500>
+     <maxWind2500> 20.00000 </maxWind2500>
+     <z_0> 0.10000 </z_0>
+  </FullForcing>
+  <Parallel>
+     <CPUdemand> ALL </CPUdemand>
+  </Parallel>
+  <ENVIGuide>
+     <mainPurpose> -999 </mainPurpose>
+     <lastActivePage> 16 </lastActivePage>
+     <EPWFile>  </EPWFile>
+     <Level> 2 </Level>
+     <rg_easyTemp> 1 </rg_easyTemp>
+     <track_tempDay> 28 </track_tempDay>
+     <track_tempNight> 16 </track_tempNight>
+     <rg_easyWindSpeed> 1 </rg_easyWindSpeed>
+     <rg_easyWindDir> 2 </rg_easyWindDir>
+     <EasyWindSpdValue> 2.50000 </EasyWindSpdValue>
+     <EasyWindDirValue> 90.00000 </EasyWindDirValue>
+     <rg_easyCPUCores> 0 </rg_easyCPUCores>
+     <mondeFileName> NoValue </mondeFileName>
+     <rg_SimpleorFo> 1 </rg_SimpleorFo>
+     <rg_measuredData> 0 </rg_measuredData>
+     <rg_Facades> 0 </rg_Facades>
+     <buildingIndoorTempEdited> 0 </buildingIndoorTempEdited>
+     <LBCEdited> 0 </LBCEdited>
+     <pollutantsEdited> 0 </pollutantsEdited>
+     <solarAdjustEdited> 0 </solarAdjustEdited>
+     <cloudsEdited> 0 </cloudsEdited>
+     <soilEdited> 0 </soilEdited>
+     <avgInflowEdited> 0 </avgInflowEdited>
+     <backgroundConcEdited> 0 </backgroundConcEdited>
+     <IVSEdited> 0 </IVSEdited>
+     <SOREdited> 0 </SOREdited>
+     <turbulenceModelEdited> 0 </turbulenceModelEdited>
+     <outputTimingEdited> 0 </outputTimingEdited>
+     <flowStepsEdited> 0 </flowStepsEdited>
+     <timestepsEdited> 0 </timestepsEdited>
+     <timingEdited> 0 </timingEdited>
+     <plantsEdited> 0 </plantsEdited>
+     <facadesEdited> 0 </facadesEdited>
+     <buildingIndoorTempChecked> 0 </buildingIndoorTempChecked>
+     <LBCChecked> 0 </LBCChecked>
+     <pollutantsChecked> 0 </pollutantsChecked>
+     <solarAdjustChecked> 0 </solarAdjustChecked>
+     <cloudsChecked> 0 </cloudsChecked>
+     <soilChecked> 0 </soilChecked>
+     <avgInflowChecked> 0 </avgInflowChecked>
+     <backgroundConcChecked> 0 </backgroundConcChecked>
+     <IVSChecked> 0 </IVSChecked>
+     <SORChecked> 0 </SORChecked>
+     <turbulenceModelChecked> 0 </turbulenceModelChecked>
+     <threadingChecked> 0 </threadingChecked>
+     <flowStepsChecked> 0 </flowStepsChecked>
+     <outputTimingChecked> 0 </outputTimingChecked>
+     <timestepsChecked> 0 </timestepsChecked>
+     <timingChecked> 0 </timingChecked>
+     <plantsChecked> 0 </plantsChecked>
+     <facadeChecked> 0 </facadeChecked>
+     <beginnerTempChecked> 0 </beginnerTempChecked>
+     <beginnerWindChecked> 0 </beginnerWindChecked>
+     <beginnerWinddirChecked> 0 </beginnerWinddirChecked>
+     <LastEdited> 01.05.2020 9:32:18 AM </LastEdited>
+  </ENVIGuide>
+</ENVI-MET_Datafile>
