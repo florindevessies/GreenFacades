@@ -1,4 +1,4 @@
-# GreenFacades
+# Green facades for cooling urban hot spots - the data
 
 This page functions as an online appendix to the master thesis 'Green facades for cooling urban hotspots: The cooling effectivity of green facades on spaces adjacent to and inside dwellings in Amsterdam', written by Florinde Vessies (2020). In order to maximize the reproducibility of this research, all modeling data, both input and output, are available here.
 
